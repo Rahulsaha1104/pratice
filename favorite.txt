@@ -2,3 +2,7 @@ foods
 1)pizza
 2)burger
 3)rice
+movies
+1) spiderman
+2) batman
+3) bantan
